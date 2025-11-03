@@ -28,3 +28,7 @@ El objetivo es desarrollar un modelo de clasificación supervisada que prediga e
     <td>Ingeniería de Sistemas</td>
   </tr>
 </table>
+
+## Enlaces Videos
+
+[Entregable 2](https://youtu.be/vShOIKVRPDI)
