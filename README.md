@@ -32,3 +32,5 @@ El objetivo es desarrollar un modelo de clasificación supervisada que prediga e
 ## Enlaces Videos
 
 [Entregable 2](https://youtu.be/vShOIKVRPDI)
+
+[Entregable 3](https://youtu.be/8Am3CCuqtqQ)
